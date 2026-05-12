@@ -1,0 +1,15 @@
+{
+	"name": "covid-reporting-202605",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dba08da3-6cf4-43ec-b694-2b2bda7c19f1",
+		"tenantId": "555ca02c-ee2d-4868-b1e2-c978946ba80b"
+	}
+}
